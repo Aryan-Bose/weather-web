@@ -17,6 +17,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # weather-web
 A simple weather application built using HTML, CSS, and JavaScript.
 
-##Deployed on vercel
+# Deployed on vercel
 🔍  Inspect: https://vercel.com/24f3004686-9582s-projects/weather-web/6oVUZiHSapcCdfVpNj2eLMa1GfFi 
 ✅  Production: https://weather-1mmxfv1yi-24f3004686-9582s-projects.vercel.app 
