@@ -16,3 +16,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # weather-web
 A simple weather application built using HTML, CSS, and JavaScript.
+
+##Deployed on vercel
+🔍  Inspect: https://vercel.com/24f3004686-9582s-projects/weather-web/6oVUZiHSapcCdfVpNj2eLMa1GfFi 
+✅  Production: https://weather-1mmxfv1yi-24f3004686-9582s-projects.vercel.app 
